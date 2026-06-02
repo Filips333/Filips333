@@ -57,14 +57,6 @@ I am continuously improving my skills through learning, practice, and a discipli
 
 ---
 
-## GitHub statistika
-
-![Filip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Filips333&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Filips333&layout=compact&theme=github_dark&hide_border=true)
-
----
-
 ## Kontakt
 
 Ako zelite da stupite u kontakt sa mnom, mozete me kontaktirati putem emaila:
