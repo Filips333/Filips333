@@ -1,6 +1,6 @@
 # Filip Subic
 
-### Student | Software Development | Python, C++, Java, SQL Server & .NET
+### Student | Software Development | Python, C++, Java, C#, SQL Server, .NET, XAML & WPF
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Filips333&style=for-the-badge&color=0e75b6)
 ![GitHub](https://img.shields.io/badge/GitHub-Filips333-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -10,7 +10,7 @@
 
 ## About Me
 
-I am **Filip Subic**, a student focused on software development, programming, and building reliable digital solutions. My current technical interests include **Python**, **C++**, **Java**, **SQL Server**, and **.NET** development.
+I am **Filip Subic**, a student focused on software development, programming, and building reliable digital solutions. My current technical interests include **Python**, **C++**, **Java**, **C#**, **SQL Server**, **.NET**, **XAML**, and **WPF application development**.
 
 I am continuously improving my skills through learning, practice, and a disciplined approach to problem solving. My long-term goal is to grow as a software developer with a strong foundation in programming logic, clean code, databases, and application development.
 
@@ -21,8 +21,11 @@ I am continuously improving my skills through learning, practice, and a discipli
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![XAML](https://img.shields.io/badge/XAML-0C54C2?style=for-the-badge&logo=windows&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-5C2D91?style=for-the-badge&logo=windows&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
@@ -33,6 +36,7 @@ I am continuously improving my skills through learning, practice, and a discipli
 - Object-oriented programming
 - Database design and SQL Server
 - Backend and desktop application development
+- WPF application development with XAML and C#
 - Clean, structured, and maintainable code
 - Continuous learning and professional growth
 
@@ -58,7 +62,7 @@ To continue developing my technical knowledge, build a strong professional profi
 
 ## O meni
 
-Ja sam **Filip Subic**, student usmeren ka razvoju softvera, programiranju i izgradnji kvalitetnih digitalnih resenja. Moje trenutno interesovanje obuhvata rad sa programskim jezicima **Python**, **C++** i **Java**, kao i bazama podataka kroz **SQL Server** i razvoj aplikacija uz **.NET** tehnologije.
+Ja sam **Filip Subic**, student usmeren ka razvoju softvera, programiranju i izgradnji kvalitetnih digitalnih resenja. Moje trenutno interesovanje obuhvata rad sa programskim jezicima **Python**, **C++**, **Java** i **C#**, kao i bazama podataka kroz **SQL Server** i razvoj aplikacija uz **.NET**, **XAML** i **WPF** tehnologije.
 
 Moj cilj je da kroz konstantno ucenje, praksu i rad na sve ozbiljnijim zadacima razvijem stabilno tehnicko znanje i profesionalan pristup softverskom inzenjerstvu. Posebno cenim cist kod, logicno razmisljanje, preciznost i resenja koja su jednostavna za razumevanje, odrzavanje i unapredjivanje.
 
@@ -70,6 +74,7 @@ Moj cilj je da kroz konstantno ucenje, praksu i rad na sve ozbiljnijim zadacima 
 - Objektno orijentisano programiranje
 - Rad sa bazama podataka
 - Backend i desktop aplikacije
+- Razvoj WPF aplikacija uz XAML i C#
 - Pisanje jasnog, organizovanog i odrzivog koda
 - Kontinuirano ucenje i profesionalni razvoj
 
@@ -78,4 +83,3 @@ Moj cilj je da kroz konstantno ucenje, praksu i rad na sve ozbiljnijim zadacima 
 ## Profesionalni cilj
 
 Da nastavim da razvijam svoje znanje, gradim ozbiljan tehnicki profil i napredujem kao software developer kroz disciplinu, praksu i kvalitetan rad.
-
